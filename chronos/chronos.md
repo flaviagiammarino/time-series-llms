@@ -1,4 +1,4 @@
-# Time Series Forecasting with Amazon Chronos
+# Time Series Forecasting with Chronos
 
 <img src=https://demo-projects-files.s3.eu-west-1.amazonaws.com/chronos/architecture.png style="width:65%;margin-top:50px;margin-bottom:50px"/>
 
