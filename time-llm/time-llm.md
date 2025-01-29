@@ -1,6 +1,6 @@
 # Time Series Forecasting with Time-LLM
 
-<img src=https://demo-projects-files.s3.eu-west-1.amazonaws.com/time-llm/architecture.png style="width:50%;margin-top:50px;margin-bottom:50px"/>
+<img src=https://demo-projects-files.s3.eu-west-1.amazonaws.com/time-llm/architecture.png style="width:60%;margin-top:50px;margin-bottom:50px"/>
 
 *Time-LLM architecture (source: [doi:10.48550/arXiv.2310.01728](https://doi.org/10.48550/arXiv.2310.01728))*
 
