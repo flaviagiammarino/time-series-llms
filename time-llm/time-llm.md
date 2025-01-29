@@ -1,5 +1,9 @@
 # Time Series Forecasting with Time-LLM
 
+<img src=https://demo-projects-files.s3.eu-west-1.amazonaws.com/time-llm/architecture.png style="width:50%;margin-top:50px;margin-bottom:50px"/>
+
+*Time-LLM architecture (source: [doi:10.48550/arXiv.2310.01728](https://doi.org/10.48550/arXiv.2310.01728))*
+
 ## Set Up
 
 Install the dependencies.
@@ -192,7 +196,7 @@ fig.show("png")
 
 
     
-![png](plots/output_17_0.png)
+![png](https://demo-projects-files.s3.eu-west-1.amazonaws.com/time-llm/output_17_0.png)
     
 
 
@@ -514,6 +518,7 @@ predictions
 
 
 <div>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -649,7 +654,7 @@ fig.show("png")
 
 
     
-![png](plots/output_56_0.png)
+![png](https://demo-projects-files.s3.eu-west-1.amazonaws.com/time-llm/output_56_0.png)
     
 
 
@@ -719,6 +724,7 @@ forecasts
 
 
 <div>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -865,6 +871,6 @@ fig.show("png")
 
 
     
-![png](plots/output_68_0.png)
+![png](https://demo-projects-files.s3.eu-west-1.amazonaws.com/time-llm/output_68_0.png)
     
 
